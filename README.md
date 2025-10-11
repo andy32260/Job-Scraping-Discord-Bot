@@ -8,7 +8,8 @@ A Discord bot that helps you search for jobs, bookmark opportunities, and track 
 
 ## Demo
 
-[Add a screenshot or GIF of the bot in action]
+<img width="889" height="955" alt="Discord Bot Preview" src="https://github.com/user-attachments/assets/bb667b53-478c-4bae-9e27-85850f740bd3" />
+
 
 ## Features
 
