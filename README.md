@@ -108,7 +108,7 @@ MIT
 
 ## Acknowledgments
 
-- [Discord.py](https://github.com/Rapptz/discord.py) for the amazing library
+- [Discord.py](https://github.com/Rapptz/discord.py) for the library
 - [JSearch API](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch) for job data
 
 ---
