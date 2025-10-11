@@ -114,5 +114,7 @@ MIT
 ---
 
 **Made by @andy32260** • [GitHub] https://github.com/andy32260• 
-[LinkedIn] https://www.linkedin.com/in/andyhoangpy/
+
+[LinkedIn] 
+https://www.linkedin.com/in/andyhoangpy/
 
