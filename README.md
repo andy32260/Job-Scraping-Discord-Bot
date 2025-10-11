@@ -98,14 +98,6 @@ I was tired of switching between multiple job sites while also keeping up with D
 - Async/await patterns in Python
 - Error handling for network requests
 
-## Roadmap
-
-- [ ] Email notifications for saved searches
-- [ ] Export bookmarks to CSV
-- [ ] Track application status
-- [ ] Support for more job boards
-- [ ] Salary comparison charts
-
 ## Contributing
 
 Pull requests are welcome! Feel free to open an issue if you find bugs or have feature suggestions.
@@ -121,4 +113,5 @@ MIT
 
 ---
 
-**Made by [Your Name]** • [GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
+**Made by @andy32260** • [GitHub] https://github.com/andy32260• [LinkedIn] https://www.linkedin.com/in/andyhoangpy/
+
