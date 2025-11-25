@@ -10,7 +10,7 @@ A Discord bot that helps you search for jobs, bookmark opportunities, and track 
 
 <img width="889" height="955" alt="Discord Bot Preview" src="https://github.com/user-attachments/assets/7dde26d5-ed6b-4006-b509-289c4540babe" />
 
-
+ 
 ## Features
 
 - Search jobs with filters (location, salary, remote work)
